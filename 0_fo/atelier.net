@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<rsc:remoteInteractive xmlns:rsc="scenari.eu:remote" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<rsc:remoteInteractiveM xmlns:of="scpf.org:office">
+			<sp:title>Atelier Github</sp:title>
+		</rsc:remoteInteractiveM>
+		<sc:location>https://github.com/fogim88/at2017gim.git</sc:location>
+	</rsc:remoteInteractive>
+</sc:item>

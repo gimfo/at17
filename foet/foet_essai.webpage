@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:page xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:pageM>
+			<sp:title>Page perso FO simulation etudiant</sp:title>
+		</of:pageM>
+		<sp:main>
+			<of:section>
+				<of:sectionM>
+					<sp:title>Objectif</sp:title>
+				</of:sectionM>
+				<sp:content>
+					<of:fragment>
+						<sp:info>
+							<of:block>
+								<of:blockM/>
+								<sp:co>
+									<of:flow>
+										<sp:txt>
+											<of:txt>
+												<sc:para xml:space="preserve">Tester le versioning limité aux étudiants</sc:para>
+											</of:txt>
+										</sp:txt>
+									</of:flow>
+								</sp:co>
+							</of:block>
+						</sp:info>
+					</of:fragment>
+				</sp:content>
+			</of:section>
+		</sp:main>
+	</of:page>
+</sc:item>
