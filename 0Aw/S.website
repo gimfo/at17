@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:webSite xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<of:webSiteM>
+			<sp:title>Projets 2017</sp:title>
+		</of:webSiteM>
+		<sp:margin>
+			<of:marginBlock>
+				<sp:co>
+					<of:block>
+						<of:blockM/>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Projets GIM1 et TTAM</sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:co>
+			</of:marginBlock>
+		</sp:margin>
+		<sp:home>
+			<of:page>
+				<of:pageM>
+					<sp:title>Site collaboratif</sp:title>
+				</of:pageM>
+				<sp:main>
+					<of:section>
+						<of:sectionM>
+							<sp:title>Objectif</sp:title>
+						</of:sectionM>
+						<sp:content>
+							<of:fragment>
+								<sp:info>
+									<of:block>
+										<of:blockM/>
+										<sp:co>
+											<of:flow>
+												<sp:txt>
+													<of:txt>
+														<sc:para xml:space="preserve">Ce site a pour objectif de regrouper les contributions de l'ensemble des étudiants afin de les partager de manière efficace</sc:para>
+													</of:txt>
+												</sp:txt>
+											</of:flow>
+										</sp:co>
+									</of:block>
+								</sp:info>
+							</of:fragment>
+						</sp:content>
+					</of:section>
+				</sp:main>
+			</of:page>
+		</sp:home>
+		<sp:page sc:refUri="/0_fo/Utilisation.webfolder"/>
+		<sp:page sc:refUri="/0_fo/Etudiants.webfolder"/>
+	</of:webSite>
+</sc:item>
