@@ -18,7 +18,7 @@
 									<of:flow>
 										<sp:txt>
 											<of:txt>
-												<sc:para xml:space="preserve">Je simule Git avec un accès identique à celui des étudiants : mon identifiant est fogim88et et mon addresse mail est franck.ourion@univ-lorraine.fr</sc:para>
+												<sc:para xml:space="preserve">Je simule Git avec un accès identique à celui des étudiants : mon identifiant est fogim88et et mon adresse mail est franck.ourion@univ-lorraine.fr</sc:para>
 												<sc:para xml:space="preserve">Vous trouverez ci-dessous :</sc:para>
 												<sc:itemizedList>
 													<sc:listItem>
@@ -39,6 +39,7 @@
 						</sp:info>
 					</of:fragment>
 				</sp:content>
+				<sp:sec sc:refUri="/foet/ajsecfogim88.section"/>
 			</of:section>
 		</sp:main>
 	</of:page>
