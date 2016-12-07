@@ -7,6 +7,7 @@
 		<sp:main>
 			<of:section>
 				<of:sectionM>
+					<sp:title>Mon compte GIT</sp:title>
 				</of:sectionM>
 				<sp:content>
 					<of:fragment>
