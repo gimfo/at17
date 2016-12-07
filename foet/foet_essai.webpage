@@ -20,9 +20,17 @@
 											<of:txt>
 												<sc:para xml:space="preserve">Je simule Git avec un accès identique à celui des étudiants : mon identifiant est fogim88et et mon addresse mail est franck.ourion@univ-lorraine.fr</sc:para>
 												<sc:para xml:space="preserve">Vous trouverez ci-dessous :</sc:para>
-												<sc:para xml:space="preserve">mes dépôts propriétaires</sc:para>
-												<sc:para xml:space="preserve">les dépôts sur lesquels je collabore</sc:para>
-												<sc:para xml:space="preserve">les dépôts que je suis</sc:para>
+												<sc:itemizedList>
+													<sc:listItem>
+														<sc:para xml:space="preserve">mes dépôts propriétaires</sc:para>
+													</sc:listItem>
+													<sc:listItem>
+														<sc:para xml:space="preserve">les dépôts sur lesquels je collabore</sc:para>
+													</sc:listItem>
+													<sc:listItem>
+														<sc:para xml:space="preserve">les dépôts que je suis</sc:para>
+													</sc:listItem>
+												</sc:itemizedList>
 											</of:txt>
 										</sp:txt>
 									</of:flow>
