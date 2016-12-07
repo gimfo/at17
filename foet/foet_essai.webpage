@@ -2,12 +2,11 @@
 <sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
 	<of:page xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
 		<of:pageM>
-			<sp:title>Page perso FO simulation etudiant</sp:title>
+			<sp:title>Mon Git</sp:title>
 		</of:pageM>
 		<sp:main>
 			<of:section>
 				<of:sectionM>
-					<sp:title>Objectif</sp:title>
 				</of:sectionM>
 				<sp:content>
 					<of:fragment>
@@ -18,7 +17,11 @@
 									<of:flow>
 										<sp:txt>
 											<of:txt>
-												<sc:para xml:space="preserve">Tester le versioning limité aux étudiants</sc:para>
+												<sc:para xml:space="preserve">Je simule Git avec un accès identique à celui des étudiants : mon identifiant est fogim88et et mon addresse mail est franck.ourion@univ-lorraine.fr</sc:para>
+												<sc:para xml:space="preserve">Vous trouverez ci-dessous :</sc:para>
+												<sc:para xml:space="preserve">mes dépôts propriétaires</sc:para>
+												<sc:para xml:space="preserve">les dépôts sur lesquels je collabore</sc:para>
+												<sc:para xml:space="preserve">les dépôts que je suis</sc:para>
 											</of:txt>
 										</sp:txt>
 									</of:flow>

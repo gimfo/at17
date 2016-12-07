@@ -2,7 +2,7 @@
 <sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
 	<of:folder xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
 		<of:folderM>
-			<sp:title>foet</sp:title>
+			<sp:title>Franck OURION</sp:title>
 		</of:folderM>
 		<sp:subPage sc:refUri="/foet/foet_essai.webpage"/>
 	</of:folder>
