@@ -15,7 +15,8 @@
 							<of:flow>
 								<sp:txt>
 									<of:txt>
-										<sc:para xml:space="preserve">Lien : <sc:phrase role="url"><of:urlM><sp:url>https://github.com/</sp:url><sp:title>Site Github officiel</sp:title></of:urlM>https://github.com/</sc:phrase></sc:para>
+										<sc:para xml:space="preserve">Lien vers l'interface WEB GitHub --&gt; Gestion de votre compte sur le net : <sc:phrase role="url"><of:urlM><sp:url>https://github.com/</sp:url><sp:title>Site Github officiel</sp:title></of:urlM>https://github.com/</sc:phrase></sc:para>
+										<sc:para xml:space="preserve">Installer l'application Git sur un ordinateur local : <sc:phrase role="url"><of:urlM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:url>https://git-scm.com/download/win</sp:url><sp:title>Version Windows de Git</sp:title></of:urlM>https://git-scm.com/download/win</sc:phrase></sc:para>
 									</of:txt>
 								</sp:txt>
 							</of:flow>
@@ -31,8 +32,24 @@
 							<of:flow>
 								<sp:txt>
 									<of:txt>
-										<sc:para xml:space="preserve">Créer un compte en utilisant votre adresse gmail ou univ-lorraine</sc:para>
-										<sc:para xml:space="preserve">Accéder à linterface : <sc:phrase role="url"><of:urlM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:url>https://github.com/gimfo/at17.git</sp:url><sp:title>Dépôt GIT (remote) pour at17</sp:title></of:urlM>Atelier Github</sc:phrase> </sc:para>
+										<sc:para xml:space="preserve">Créer un compte en utilisant votre adresse gmail</sc:para>
+										<sc:para xml:space="preserve">Accéder au dépôt de l'atelier at17 : <sc:phrase role="url"><of:urlM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:url>https://github.com/gimfo/at17.git</sp:url><sp:title>Dépôt GIT (remote) pour at17</sp:title></of:urlM>Atelier Github</sc:phrase> </sc:para>
+									</of:txt>
+								</sp:txt>
+							</of:flow>
+						</sp:co>
+					</of:block>
+				</sp:extra>
+				<sp:extra>
+					<of:block>
+						<of:blockM>
+							<sp:title>Apprendre à utiliser Git</sp:title>
+						</of:blockM>
+						<sp:co>
+							<of:flow>
+								<sp:txt>
+									<of:txt>
+										<sc:para xml:space="preserve">Lien : <sc:phrase role="url"><of:urlM xmlns:sc="http://www.utc.fr/ics/scenari/v3/core" xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive"><sp:url>http://christopheducamp.com/2013/12/16/forker-un-repo-github/</sp:url><sp:title>Forker un Repo sur GitHub</sp:title></of:urlM>http://christopheducamp.com/2013/12/16/forker-un-repo-github/</sc:phrase></sc:para>
 									</of:txt>
 								</sp:txt>
 							</of:flow>

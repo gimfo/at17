@@ -2,7 +2,7 @@
 <sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
 	<of:webSite xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
 		<of:webSiteM>
-			<sp:title>Projets 2017</sp:title>
+			<sp:title>Cours et Projets GIM1 2017</sp:title>
 		</of:webSiteM>
 		<sp:margin>
 			<of:marginBlock>
@@ -26,6 +26,12 @@
 			<of:page>
 				<of:pageM>
 					<sp:title>Site collaboratif</sp:title>
+					<sp:interactivity>
+						<of:interactPageM>
+							<sp:comments>yes</sp:comments>
+							<sp:rating>yes</sp:rating>
+						</of:interactPageM>
+					</sp:interactivity>
 				</of:pageM>
 				<sp:main>
 					<of:section>

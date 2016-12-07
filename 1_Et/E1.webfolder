@@ -2,9 +2,8 @@
 <sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
 	<of:folder xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
 		<of:folderM>
-			<sp:title>Etudiants</sp:title>
+			<sp:title>E</sp:title>
 		</of:folderM>
-		<sp:subPage sc:refUri="/foet/foet.webfolder"/>
-		<sp:subPage sc:refUri="/1_Et/E1.webfolder"/>
+		<sp:subPage sc:refUri="/1_Et/page1.webpage"/>
 	</of:folder>
 </sc:item>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<of:fragment xmlns:of="scpf.org:office" xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">
+		<sp:info>
+			<of:block>
+				<of:blockM>
+					<sp:title>Carte UNO avec shield W5100</sp:title>
+				</of:blockM>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">connexion RJ-45</sc:para>
+								<sc:para xml:space="preserve">utilisé en serveur de données</sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:info>
+		<sp:info>
+			<of:block>
+				<of:blockM/>
+				<sp:co>
+					<of:flow>
+						<sp:txt>
+							<of:txt>
+								<sc:para xml:space="preserve">Code : <sc:uLink role="ref" sc:refUri="/0_fo/ard/001_eth_uno/git.net">001-01-découverte_réseau</sc:uLink></sc:para>
+							</of:txt>
+						</sp:txt>
+					</of:flow>
+				</sp:co>
+			</of:block>
+		</sp:info>
+	</of:fragment>
+</sc:item>
